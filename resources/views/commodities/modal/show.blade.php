@@ -78,7 +78,7 @@
             <label for="quantity"><b>Banyaknya</b></label>
             <input type="text" name="" class="form-control" id="quantity" placeholder="" disabled>
           </div>
-          <div class="col-lg-4">
+          <!--div class="col-lg-4">
             <label for="price"><b>Harga</b></label>
             <div class="input-group mb-3">
               <div class="input-group-prepend">
@@ -95,7 +95,7 @@
               </div>
               <input type="text" id="price_per_item" class="form-control" placeholder="" disabled>
             </div>
-          </div>
+          </div-->
         </div>
 
       </div>
