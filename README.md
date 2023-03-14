@@ -12,7 +12,6 @@ Berikut beberapa hal yang perlu diinstal terlebih dahulu:
 
 Email       : admin@mail.com
 Password    : admin
-```
 
 ### Feature in plan
 
