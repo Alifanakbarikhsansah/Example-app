@@ -16,7 +16,7 @@ Password    : admin
 ### Feature in plan
 
 -   spesifikasi
--   foto
+-   foto barang
 -   barang mobile
 -   history barang
 -   user privilage

@@ -40,6 +40,7 @@ Route::group(['prefix' => 'admin', 'middleware' => 'auth'], function () {
 
     Route::get('/dashboard', 'HomeController@index')->name('home');
     Route::resource('/barang', 'Commodities\CommodityController');
+    Route::resource('/pengelolaan', 'Commodities\CommodityController');
     Route::resource('/bantuan-dana-operasional', 'SchoolOperationalAssistances\SchoolOperationalAssistance');
     Route::resource('/ruang', 'CommodityLocations\CommodityLocationController');
 
